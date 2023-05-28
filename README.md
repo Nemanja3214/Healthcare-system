@@ -4,7 +4,7 @@ Faculty project for subject "Introduction to software engineering" with emphasis
 
 # Contributors
 
-[Tina Mihajlović](https://github.com/tince250)
-[Bojan Mijanović](https://github.com/bmijanovic)
-[Nemanja Majstorović](https://github.com/Nemanja3214)
-[Lazar Milanović](https://github.com/zograf)
+[Tina Mihajlović](https://github.com/tince250)  
+[Bojan Mijanović](https://github.com/bmijanovic)  
+[Nemanja Majstorović](https://github.com/Nemanja3214)  
+[Lazar Milanović](https://github.com/zograf)  
